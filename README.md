@@ -1,5 +1,6 @@
 # Simple_CRM_in_Python
-My first project in Python
+My first project in Python which I submitted as my final assesment for UCD Professional Certificate in Python Programming course and scored distinction.
+
 This project presents the development of a Python-based Customer Relationship Management (CRM) system, inspired by over six years of hands-on experience working with leading CRM platforms. Leveraging this extensive expertise, I aim to create a simplified CRM solution that encapsulates fundamental CRM functionalities. The CRM system's primary focus is on three core pillars: Customer Management, Product Cataloging, and Order Processing. These pillars represent the cornerstone of effective business operations, allowing organizations to nurture customer relationships, manage product portfolios, and streamline order fulfillment.
 
 Key Features and Components:
